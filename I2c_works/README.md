@@ -4,6 +4,7 @@
 ### Setup Function:
 
 Initializes the I2C bus and serial communication.
+
 Sends the command to change the I2C address from 0x31 to 0x32.
 
 ### Loop Function:
