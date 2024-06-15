@@ -13,12 +13,12 @@ Sends the WHO AM I command (0x01) to check the response.
 If the response is 0xA1, it confirms that the address change was successful.
 
 ### Steps to Upload and Run the Code:
-Connect the Rangefinder to the Arduino:
+Connect the sensor to the Arduino:
 
-SDA pin on the rangefinder to A4 pin on the Arduino.
-SCL pin on the rangefinder to A5 pin on the Arduino.
-5V pin on the rangefinder to the 5V pin on the Arduino.
-GND pin on the rangefinder to the GND pin on the Arduino.
+SDA pin on the sensor to A4 pin on the Arduino.
+SCL pin on the sensor to A5 pin on the Arduino.
+5V pin on the sensor to the 5V pin on the Arduino.
+GND pin on the sensor to the GND pin on the Arduino.
 Upload the Code:
 
 ## Open the Arduino IDE.
