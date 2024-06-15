@@ -21,6 +21,9 @@ Connect the sensor to the Arduino:
 - 5V pin on the sensor to the 5V pin on the Arduino.
 - GND pin on the sensor to the GND pin on the Arduino.
 
+<br />
+<br />
+
 ## Upload the Code:
 
 Open the Arduino IDE.
