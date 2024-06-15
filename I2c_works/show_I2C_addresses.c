@@ -1,5 +1,16 @@
 #include <Wire.h>
 
+// by French Isotope
+// Code to scan I2C addresses
+// Connect the sensor to the Arduino (UNO / NANO / Pro Mini):
+
+// SDA pin on the sensor to A4 pin on the Arduino.
+// SCL pin on the sensor to A5 pin on the Arduino.
+// 5V pin on the sensor to the 5V pin on the Arduino.
+// GND pin on the sensor to the GND pin on the Arduino.
+
+// for Arduino Mega 2560 I2C bus is connected to D20 (SDA) and D21 (SCL)
+
 void setup(){
 	Wire.begin();
 	Serial.begin(9600);
