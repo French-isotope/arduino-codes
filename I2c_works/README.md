@@ -21,7 +21,9 @@ Connect the sensor to the Arduino:
 - 5V pin on the sensor to the 5V pin on the Arduino.
 - GND pin on the sensor to the GND pin on the Arduino.
 
-https://github.com/French-isotope/arduino-codes/blob/main/I2c_works/I2c_cabling.png
+
+![Image](https://github.com/French-isotope/arduino-codes/blob/main/I2c_works/I2c_cabling.png)
+
 
 <br />
 <br />
