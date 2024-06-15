@@ -15,13 +15,14 @@ If the response is 0xA1, it confirms that the address change was successful.
 ### Steps to Upload and Run the Code:
 Connect the sensor to the Arduino:
 
-SDA pin on the sensor to A4 pin on the Arduino.
-SCL pin on the sensor to A5 pin on the Arduino.
-5V pin on the sensor to the 5V pin on the Arduino.
-GND pin on the sensor to the GND pin on the Arduino.
-Upload the Code:
+- SDA pin on the sensor to A4 pin on the Arduino.
+- SCL pin on the sensor to A5 pin on the Arduino.
+- 5V pin on the sensor to the 5V pin on the Arduino.
+- GND pin on the sensor to the GND pin on the Arduino.
 
-## Open the Arduino IDE.
+## Upload the Code:
+
+Open the Arduino IDE.
 
 Copy and paste the corrected code into a new sketch.
 Upload the sketch to your Arduino.
